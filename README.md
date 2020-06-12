@@ -1,8 +1,11 @@
 # fakenews-detection
 
 To install, run the following:
+
 conda env create -f environment.yml
+
 conda activate fakenews-detection
+
 python install.py
 
 
